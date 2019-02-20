@@ -8,7 +8,7 @@
 
 Script URL: [PowerShell: Bulk AD Group Creation (Based On CSV Input)](https://gallery.technet.microsoft.com/scriptcenter/PowerShell-Bulk-AD-Group-4d873f35)
 
-======
+
 
 Description from that page:
 This script will create groups in Active Directory based on the settings in the input file (see the CSV file below this script for an example of the input file used). These settings can, of course, be changed or extended.
@@ -23,7 +23,6 @@ Note #3: Added functionality for duplicate OU's. Pay attention that the input fi
 
 ## Requirments: Active Directory Module for PowerShell
 
-======
 As on Windows Server 2008 R2, the AD module is already installed on domain controllers on Windows Server 2012, Windows Server 2012 R2, and Windows Server 2016. On member servers, you can add the module as a feature in Server Manager.
 
    * Start Server Manager.
