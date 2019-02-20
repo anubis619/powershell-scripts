@@ -1,0 +1,10 @@
+GroupName,GroupType,GroupLocation
+TestGroup01,DomainLocal,OU=Nassau
+TestGroup02,Global,OU=Nassau
+TestGroup03,Global,OU=Nassau
+TestGroup04,DomainLocal,OU=Nassau
+TestGroup05,Global,OU=Nassau
+TestGroup06,DomainLocal,OU=Nassau
+TestGroup07,Global,OU=Nassau
+TestGroup08,Global,OU=Nassau
+TestGroup09,Global,OU=Nassau
