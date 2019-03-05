@@ -1,7 +1,7 @@
 # powershell-scripts
 
 
-## A collection of PowerShell script to manage your AD instance or Okta tenant
+## A collection of PowerShell scripts to manage your AD instance or Okta tenant
 ======
 
 ### The Bulk group create has not been created by me but rather found on the internet while searching for a way to reproduce an event.
