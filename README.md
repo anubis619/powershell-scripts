@@ -5,11 +5,11 @@
 ***
 Content list:
 * Add users to groups (Add-ADGroupMember)
-   * [Add users from an OU to a group](../add-users-to-groups(AD)/add-user-from-ou-to-group.ps1)
+   * [Add users from an OU to a group](add-users-to-groups(AD)/add-user-from-ou-to-group.ps1)
    * [Add users to multiple groups based on CSV](add-users-to-groups(AD)/add-user-to-groups.ps1)
    * [Bulk group add](bulk-group(AD)/ad-bulk-group-creation.ps1)
 * Get users from a group with extra fields and dump the result to a CSV
-  * [Get user from group](..get-members-of-group/get-full-user-dump.ps1)
+  * [Get user from group](get-members-of-group/get-full-user-dump.ps1)
 * Okta API integration with Powershell
 
 ***
